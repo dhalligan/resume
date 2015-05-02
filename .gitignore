@@ -1,0 +1,9 @@
+#Ignore:
+
+#files being edited
+*~
+
+# make and build files
+*.aux
+*.log
+*.out
