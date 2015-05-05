@@ -1,0 +1,61 @@
+Deaglan Halligan
+3275 Pomace Ct
+Pleasanton, CA 94566
+415-350-2014
+deaglanhalligan@gmail.com
+
+Education 
+M.S., Computer Science, Purdue University, 2014
+B.S., Electrical Engineering and Computer Science, UC Berkeley, 2008
+B.A., Mathematics, UC Berkeley, 2008
+
+Computer Science Teaching Assistant • Purdue University, West Lafayette, IN • 2014
+Developed Perl analysis software for student Java projects and conducted lab sections
+
+Contract Developer • Sandia National Laboratories, West Lafayette, IN • 2011-2014
+Developed generic objected-oriented C++ algorithms for fast distributed linear algebra
+
+Mathematics Teaching Assistant • Purdue University, West Lafayette, IN • 2009-2010
+Conducted discussion sections, tutored students and graded student work
+
+Research Intern • Microsoft Research, Redmond, WA • 2009
+Developed C/C++ code for linear algebra and numerical exceptions targeting multicore
+
+Junior Development Engineer • UC Berkeley, Berkeley, CA • 2009
+Research Assistant and Developer • UC Berkeley, Berkeley, CA • 2007-2009
+Implemented Fortran/C algorithms for mixed precision iterative linear solvers in LAPACK
+
+Mathematics and English Tutor • Self-employed, San Francisco, CA • 2005–2009
+
+Mathematics Tutor • UC Berkeley Academic Services, Berkeley, CA • 2007–2008
+
+Undergraduate Intern • Lawrence Livermore National Laboratory, Livermore, CA • 2007
+Developed Perl and Python tools for efficient graphical data analysis
+
+Software Tramonto: C/C++ application for computations in fluid density functional theory
+Trilinos: Generic object-oriented C++ framework for distributed linear algebra, multiphysics, engineering
+Numerical PDE: Parallel Scheme FEM code for numerical PDE with C/MPI interface
+LAPACK 3.2: Fortran algorithms for extra-precise iterative refinement and C testing framework
+XBLAS 1.0: C BLAS routines for extra-precise iterative refinement algorithms
+LLNL ARES Project: Perl and Python graphical data analysis code for physics simulation
+
+Tools Languages: C, C++, Java, Python, Perl, Scheme, MATLAB, Octave, Fortran
+Frameworks/Libraries: Trilinos, LAPACK, Sca/LAPACK, MPI, Eigen, Intel MKL, OpenMP, Pthreads
+Development: Debian and Fedora GNU/Linux on x86 and x86-64, GNU/Linux development tools
+Documentation: L A TEX, Doxygen, Microsoft Office
+
+Honors 
+Melvin L. Keedy Graduate Scholarship 2009
+California Governor’s Scholar 2004
+
+Research
+ - with Amalie Frischknecht and Michael Parks. Electrical Double Layers and Differential Capacitance in
+Molten Salts from Density Functional Theory. Journal of Chemical Physics, July 2014 (paper).
+- A Semiring Formulation of Boruvka’s Algorithm. Purdue Graduate Network and Matrix Computations,
+December 2011 (term project).
+- Iterative Refinement for Tiled Factorizations with Exception Handling. Microsoft Research and Microsoft
+Technical Computing, August 2009 (presentation, report).
+- with Douglas Mason and Marghoob Mohiyuddin. Nested Dissection Survey. UC Berkeley Graduate
+Numerical Linear Algebra, December 2008 (term project).
+- Efficient High-Level Scientific Testing in the Perl Language. Lawrence Livermore National Laboratory
+Student Poster Symposium, August 2007 (abstract, poster).
